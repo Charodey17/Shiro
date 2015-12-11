@@ -1,3 +1,4 @@
-print("Hello world")
-print("Hello gays")
-print("Короч, напишу на русском")
+
+print("Hello world;")
+print("Hello gays;")
+print("Короч, напишу на русском;")
